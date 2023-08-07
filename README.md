@@ -44,3 +44,12 @@ VII. Critères d'Évaluation :
 - Env : Jupyter lab pour l'aspect Code/Markdown allie efficacité du code à l'esthetique de la présentation.
 - DB: PostgreSQL car plus conforme aux normes SQL et offre plus de fonctionnalité, bien que je sois plus familier avec MySQL, PostgreSQL est plus adapté aux applications analytiques et aux projets qui necessitent une grande flexibilité et une grande fiabilité des données.
 - Visualisation : Power BI, simple d'utilisation et offre une variété de fonctionnalités.
+
+## Visualisation Power BI:
+- Activités par personnes et par villes
+![image](https://github.com/marwan-rouissi/XtestTech/assets/115158061/47f04c3f-608a-4915-bfbc-4f0ca2917025)
+- Activités par villes (filtrage par date et par villes)
+![image](https://github.com/marwan-rouissi/XtestTech/assets/115158061/706f573f-4f2e-4568-8da0-f0a2204d4636)
+- Activités par personnes (moyenne)
+![image](https://github.com/marwan-rouissi/XtestTech/assets/115158061/b7859b9e-2770-4665-ac40-7ae37b34ee05)
+
