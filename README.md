@@ -37,7 +37,7 @@ VII. Critères d'Évaluation :
 - Capacité d'explication et de communication des idées et des concepts techniques.
 
 
-## Choix des technoligies:
+## Choix des technologies:
 - Organisation : Trello.
 - CRM : Pipedrive car plus facile à prendre en main pour une première application bien que j'ai hésité avec Hubspot qui me semble offrir autant (voire plus de fonctionnalité) en étant 100% gratuit.
 - Langage: Python car plus à l'aise avec, familier de sa structure.
